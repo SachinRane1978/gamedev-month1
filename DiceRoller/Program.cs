@@ -4,7 +4,7 @@ int sixes = 0;
 
 int i = 1;
 
-int totalrolls = 6000 ;
+int totalrolls = 600 ;
 
 int secret = 7 ;
 
